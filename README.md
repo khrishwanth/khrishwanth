@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
 ###
@@ -35,23 +35,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img height="60"  src="https://github.com/khrishwanth/khrishwanth/blob/1127f54a1f0d1c31640c3696ebb6288504e51e80/java.jfif"/>
+  <img height="70" width="100" src="https://github.com/khrishwanth/khrishwanth/blob/1127f54a1f0d1c31640c3696ebb6288504e51e80/spring-boot.jpg"  />
+  <img height="60" src="https://github.com/khrishwanth/khrishwanth/blob/1127f54a1f0d1c31640c3696ebb6288504e51e80/Mysql.png"/>
+  <img height="60" src="https://github.com/khrishwanth/khrishwanth/blob/1127f54a1f0d1c31640c3696ebb6288504e51e80/Linux.jfif "/>
+  <img height="60" src="https://github.com/khrishwanth/khrishwanth/blob/1127f54a1f0d1c31640c3696ebb6288504e51e80/Langchain.png "/>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"/>
+  <img height="60" src="https://github.com/khrishwanth/khrishwanth/blob/1127f54a1f0d1c31640c3696ebb6288504e51e80/react.jfif"/>
 </div>
 
 ###
