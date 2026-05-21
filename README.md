@@ -86,6 +86,24 @@
 
 ###
 
-<h3>🌱 Videos to improve your software knowledge</h3>
+<h3>🌱 Videos that I used to improve my software knowledge</h3>
+<table>
+<tr>
+<td>
 
-###
+[![Video 1](https://ytcards.demolab.com/?id=y8bkJewFX8U&title=Things+Developers+Learn+Too+Latet&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250)](https://www.youtube.com/watch?v=y8bkJewFX8U)
+
+</td>
+<td>
+
+[![Video 2](https://ytcards.demolab.com/?id=5cAjuIxIvHg&title=Extremely+Underrated+Programming+Skills&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250)](https://www.youtube.com/watch?v=5cAjuIxIvHg)
+
+</td>
+<td>
+
+[![Video 3](https://ytcards.demolab.com/?id=vP2MNhC_Igw&title=Stop+Trying+To+Memorize+Code-Do+This+Instead&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250)](https://youtu.be/vP2MNhC_Igw)
+
+</td>
+</tr>
+</table>
+
