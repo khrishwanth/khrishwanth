@@ -34,7 +34,7 @@
 *  <h4 align="left"> 🌞 Morning                        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % </h4>
 * <h4  align="left">🌆 Daytime                         ███████░░░░░░░░░░░░░░░░░░   28.57 % </h4 >
 * <h4  align="left">🌃 Evening                         ██░░░░░░░░░░░░░░░░░░░░░░░   8.35 % </h4 >
-* <h4  align="left">🌙 Night                            █████████████░░░░░░░░░░░░   50.65 % </h4 >
+* <h4  align="left">🌙 Night                           █████████████░░░░░░░░░░░░   50.65 % </h4 >
 
 <br>
 <h3 align="left">🛠 My ToolSet</h3>
